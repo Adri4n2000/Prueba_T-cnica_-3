@@ -1,0 +1,12 @@
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\bin\Debug\net6.0\NetCore6APIMySQL.Model.deps.json
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\bin\Debug\net6.0\NetCore6APIMySQL.Model.dll
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\bin\Debug\net6.0\NetCore6APIMySQL.Model.pdb
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.csproj.AssemblyReference.cache
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.AssemblyInfoInputs.cache
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.AssemblyInfo.cs
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.dll
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\refint\NetCore6APIMySQL.Model.dll
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\NetCore6APIMySQL.Model.pdb
+C:\Users\Hermanos\Desktop\Prueba Técnica #3\API_NetCore6APIMySQL\NetCore6APIMySQL.Model\obj\Debug\net6.0\ref\NetCore6APIMySQL.Model.dll
