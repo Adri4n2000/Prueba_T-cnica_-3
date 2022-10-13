@@ -1,0 +1,4 @@
+1. Instalar Xampp.
+2. Activar los servicios de Apache y MySQL.
+3. Crear la base de datos "sistema".
+4. Importar la base de datos.
